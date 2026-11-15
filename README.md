@@ -1,6 +1,6 @@
 # Awesome-Enterprise-SSO-SAML-2.0-OKTA-Azure-Ad
 
-# Top Enterprise SSO (SAML 2.0 / Okta / Azure AD) Ecosystem
+## Top Enterprise SSO (SAML 2.0 / Okta / Azure AD) Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on SAML Federation, OIDC Providers & Self-Hosted Identity Platforms*  
