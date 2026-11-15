@@ -64,7 +64,7 @@ The global Identity and Access Management (IAM) and Enterprise SSO market was va
 
 *Ranked and sorted in descending order by GitHub stargazer count.*
 
-| Project | Stars | Language / Stack | License | Description |
+| Project | GitHub_Stars | Language / Stack | License | Description |
 |:---|:---:|:---|:---:|:---|
 | **[Keycloak](https://github.com/keycloak/keycloak)** | [![Stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers) | Java / Quarkus | Apache-2.0 | **The enterprise gold standard in open-source identity and access management.** Maintained under Red Hat governance. Native support for SAML 2.0, OpenID Connect 1.0, OAuth 2.0, LDAP/Active Directory federation, multi-tenant realms, and fine-grained Service Provider Interfaces (SPIs). |
 | **[Authelia](https://github.com/authelia/authelia)** | [![Stars](https://img.shields.io/github/stars/authelia/authelia?style=social&color=white)](https://github.com/authelia/authelia/stargazers) | Go / TypeScript | Apache-2.0 | **Lightweight authentication and authorization portal companion for reverse proxies.** Integrates natively with Nginx, Traefik, Caddy, and Envoy. Implements 2FA (TOTP, FIDO2 WebAuthn), OpenID Connect provider support, and forward-auth proxy protection for homelabs and corporate internal intranets. |
@@ -98,7 +98,7 @@ When architecting identity infrastructure between commercial IDaaS and self-host
 Contributions are welcome and appreciated!
 1. 🍴 **Fork** the repository.
 2. 🌿 **Create a branch** for your feature or update: `git checkout -b feature/new-sso-provider`.
-3. 📝 **Edit `README.md`**: Follow existing table standards (include pricing and exact free tier limits for SaaS, or star badges and GitHub link for OSS).
+3. 📝 **Edit `README.md`**: Follow existing table standards (include pricing and exact free tier limits for SaaS, or Stars_Badges and GitHub link for OSS).
 4. 🚀 **Submit a Pull Request** with a clear explanation of changes.
 
 ---
